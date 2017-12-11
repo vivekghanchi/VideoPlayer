@@ -2,7 +2,7 @@
 
 
 ## Functionality 
-
+- Play Video
 - Add Video 
 - Modify Video 
 - Delete Video 
