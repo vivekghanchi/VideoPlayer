@@ -4,8 +4,9 @@
 ## Functionality 
 - Play Video
 - Add Video 
-- Modify Video 
-- Delete Video 
+- Modify Video
+- Delete Video
+- Update Video
 
 ## Technology Stack 
 
