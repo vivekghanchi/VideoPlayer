@@ -1,5 +1,6 @@
 # Video Player 
 
+This is an Online Video player where user can have following functionality.
 
 ## Functionality 
 - Play Video
