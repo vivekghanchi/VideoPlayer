@@ -1,6 +1,6 @@
 # Video Player 
 
-This is an Online Video player where user can have following functionality.
+This is an Online Video player Web application where user can do CRUD Operations.
 
 ## Functionality 
 - Play Video
